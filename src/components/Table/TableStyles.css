@@ -1,0 +1,12 @@
+
+.description-wrapper.MuiTableCell-root {
+    display: flex;
+    width: fit-content;
+}
+
+.description {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    flex-wrap: nowrap;
+
+}
